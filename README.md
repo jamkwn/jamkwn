@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
-<!--
+
 <div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/terminal.gif"/>
 </div>
--->
+
 
 <!--
      My mission, because I'm a superhero!
