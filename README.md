@@ -37,7 +37,7 @@ Here are some ideas to get you started:
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,cpp, vscode, vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,cpp,vscode,vim)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,tensorflow,)](https://skillicons.dev)
