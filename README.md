@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,cpp,vscode,vim)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,tensorflow,)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,tensorflow)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
